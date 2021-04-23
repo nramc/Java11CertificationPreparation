@@ -5,4 +5,10 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>java11-certification-practice</name>
   <description>Java11 Cerification Practice Exercise </description>
+  
+  <properties>
+    <maven.compiler.target>11</maven.compiler.target>
+    <maven.compiler.source>11</maven.compiler.source>
+  </properties>
+  
 </project>
