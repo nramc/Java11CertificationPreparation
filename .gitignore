@@ -1,5 +1,9 @@
+# local project files 
 /target/
 .classpath
 **/.settings
 .project
 /bin/
+
+# development notes
+README.md
